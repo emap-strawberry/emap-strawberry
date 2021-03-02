@@ -1,8 +1,17 @@
+### GitHub Summary Card
+
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 自己紹介
+### Self-introduction
+I am in my junior year of university.  
+Affiliation : System Design & Management, Systems Innovation, Faculty of Engineering, The University of Tokyo  
+Interested in :
+ - Web Front-end
+ - User Experience
+ - Management
+ - Create Slides
 
 
 <!--
