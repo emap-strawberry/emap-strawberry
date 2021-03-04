@@ -5,7 +5,7 @@ Interested in :
  - Web Front-end
  - User Experience
  - Management
- - Create Slides
+ - Making Slides
 
 ### GitHub Summary Card
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
