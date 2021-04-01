@@ -1,5 +1,5 @@
 ### Self-introduction
-I am in my junior year of university.  
+I am a fourth year student of university.  
 Affiliation : System Design & Management, Systems Innovation, Faculty of Engineering, The University of Tokyo  
 Interested in :
  - Web Front-end
