@@ -1,6 +1,6 @@
 ### 自己紹介
 社会人2年目です。  
-Webフロントエンド領域、UI/UXに興味があります。
+本職はデータサイエンティストですが、趣味でWebデザインを勉強しています。
 
 ### GitHub Summary Card
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
