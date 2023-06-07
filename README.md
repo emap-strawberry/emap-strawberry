@@ -1,12 +1,6 @@
-### Self-introduction
-I am a fourth year student of university.  
-Affiliation : System Design & Management, Systems Innovation, Faculty of Engineering, The University of Tokyo  
-Interested in :
- - Web Front-end
- - User Experience
- - Management
- - Making Slides
-
+### 自己紹介
+社会人2年目です。  
+Webフロントエンド領域、UI/UXに興味があります。
 
 ### GitHub Summary Card
 [![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -15,7 +9,6 @@ Interested in :
 
 ### GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=emap-strawberry)](https://github.com/ryo-ma/github-profile-trophy)  
-I will continue to do my best.
 
 <!--
 **emap-strawberry/emap-strawberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
