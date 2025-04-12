@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/rose_pine/4-productive-time.svg)
-```
-
-    

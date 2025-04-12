@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/emap-strawberry/emap-strawberry/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
-```
-
-    
